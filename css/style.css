@@ -156,25 +156,26 @@ header{
 /* nav */
 
 .nav{
-    position: fixed;
-    background: var(--clr-light);
-    color: var(--clr-dark);
+    /* background: var(--clr-light); */
+    color: var(--clr-accent);
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
     z-index: 100;
-
+    
     transform: translateX(100%);
     transition: 250ms cubic-bezier(.5, 0, .5, 1)
 }
 
 .nav__list{
+    position: relative;
     list-style: none;
     display: flex;
     height: 100%;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    /* justify-content: space-evenly; */
     align-items: center;
     margin: 0;
     padding: 0;
@@ -183,7 +184,7 @@ header{
 .nav__link{
     color: inherit;
     font-weight: var(--fw-bold);
-    font-size: var(--fs-h2);
+    font-size: var(--fs-h3);
     text-decoration: none;
 }
 
