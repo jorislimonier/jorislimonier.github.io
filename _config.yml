@@ -27,7 +27,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# theme: minimal-mistakes-jekyll
+
 # Outputting
 permalink: /:categories/:title
 paginate: 5 # amount of posts to show
@@ -59,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Joris LIMONIER"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Joris LIMONIER's freelance website."
+  name: "Joris LIMONIER"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Joris LIMONIER's freelance website."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -71,7 +71,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/jorislimonier"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -83,7 +83,7 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/jorislimonier"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -114,3 +114,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+github: [metadata]

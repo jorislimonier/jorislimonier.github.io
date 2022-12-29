@@ -1,4 +1,0 @@
----
-permalink: /dummy/
-title: "Dummy"
----
