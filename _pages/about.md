@@ -12,7 +12,7 @@ I acquired **practical experience** while working as a Data Analyst with indepen
 I have assisted customers with each step of the data workflow:
 
 - **Data Acquisition & Cleaning**
-- **Data exploration & Visualization**, includinginteractive dashboards
+- **Data exploration & Visualization**, including interactive dashboards
 - **Machine Learning Modelisation & Serialization**
 
 My previous customers noted my ability to work efficiently, independentely as well as collaboratively. My priority is always to meet your requirements, while maintaining a heavy collaboration.
