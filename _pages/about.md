@@ -9,7 +9,7 @@ I acquired **theoretical experience** while getting my Bachelor's in Mathematics
 
 I acquired **practical experience** while working as a Data Analyst with independent customers, academic researchers and established companies.
 
-I have assisted customers with each step of the data workflow:",
+I have assisted customers with each step of the data workflow:
 
 - **Data Acquisition & Cleaning**
 - **Data exploration & Visualization**, includinginteractive dashboards
