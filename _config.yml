@@ -63,30 +63,39 @@ author:
   avatar: "/assets/images/bio-photo.jpg"
   bio: "Joris LIMONIER's freelance website."
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jorislimonier"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/joris-limonier-a48a0213a/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCRiPdnPDn3FljsRmFhbMpeg/videos"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/joris_limonier/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jorislimonier.github.io"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jorislimonier"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/joris_limonier/"
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jorislimonier"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/joris-limonier-a48a0213a/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCRiPdnPDn3FljsRmFhbMpeg/videos"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/joris_limonier/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://jorislimonier.github.io"
 
 defaults:
   # _posts
@@ -120,7 +129,5 @@ analytics:
   google:
     tracking_id: "G-11XPGWNPSK"
     anonymize_ip: false # default
-
-
 
 github: [metadata] # Useful to remove warning that GitHub API is not reachable
