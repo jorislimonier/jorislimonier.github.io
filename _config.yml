@@ -115,4 +115,12 @@ tag_archive:
   type: liquid
   path: /tags/
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-11XPGWNPSK"
+    anonymize_ip: false # default
+
+
+
 github: [metadata] # Useful to remove warning that GitHub API is not reachable
