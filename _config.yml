@@ -97,6 +97,9 @@ footer:
       icon: "fas fa-fw fa-link"
       url: "https://jorislimonier.github.io"
 
+atom_feed:
+  hide: true
+
 defaults:
   # _posts
   - scope:
