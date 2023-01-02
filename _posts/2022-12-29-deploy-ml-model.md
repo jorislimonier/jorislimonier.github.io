@@ -8,8 +8,8 @@ tags:
   - Deployment
   - Cloud
 header:
-  teaser: assets/images/cloud_iris.png
   image: assets/images/cloud_iris.png
+  caption: Made with DALL·E (labs.openai)
 
 # toc: true
 # toc_label: "My Table of Contents"
