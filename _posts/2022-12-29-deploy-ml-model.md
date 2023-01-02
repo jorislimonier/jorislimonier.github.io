@@ -8,10 +8,8 @@ tags:
   - Deployment
   - Cloud
 header:
-  teaser: "/assets/images/cloud_iris.png"
-  # image: "assets/images/cloud_iris.png"
-image:
-  feature: "/assets/images/cloud_iris.png"
+  teaser: assets/images/cloud_iris.png
+  image: assets/images/cloud_iris.png
 
 # toc: true
 # toc_label: "My Table of Contents"
