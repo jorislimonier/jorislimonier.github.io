@@ -1,37 +1,30 @@
 ---
 title: "Deploy ML Model"
 categories:
-  - Data Science
+  - Data-Science
   - Project
 tags:
   - Data Science
   - Deployment
+  - Cloud
+header:
+  teaser: "/assets/images/cloud_iris.png"
+  # image: "assets/images/cloud_iris.png"
+image:
+  feature: "/assets/images/cloud_iris.png"
+
+# toc: true
+# toc_label: "My Table of Contents"
+toc_icon: "gear"
 ---
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+_Repo: [https://github.com/jorislimonier/deploy-ml-model](https://github.com/jorislimonier/deploy-ml-model)._
 
-- [Deploy ML Model](#deploy-ml-model)
-  - [Project description](#project-description)
-    - [Create a ML model](#create-a-ml-model)
-    - [Make an API to make predictions](#make-an-api-to-make-predictions)
-    - [Containerize the application](#containerize-the-application)
-      - [Set up a virtual environment](#set-up-a-virtual-environment)
-      - [Writing a Docker file](#writing-a-docker-file)
-      - [Test our local Docker app](#test-our-local-docker-app)
-    - [Set up & configure an AWS EC2 instance](#set-up--configure-an-aws-ec2-instance)
-    - [Test the service](#test-the-service)
-  - [Thank you](#thank-you)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-Project largely inspired by [this](https://towardsdatascience.com/simple-way-to-deploy-machine-learning-models-to-cloud-fd58b771fdcf) tutorial.
-
-# Deploy ML Model
+_Project largely inspired by [this](https://towardsdatascience.com/simple-way-to-deploy-machine-learning-models-to-cloud-fd58b771fdcf) tutorial._
 
 ## Project description
 
-In this repo, I learn to deploy a Machine Learning (ML) model in the cloud. Doing so requires the following steps:
+In [this](https://github.com/jorislimonier/deploy-ml-model) repo, I learn to deploy a Machine Learning (ML) model in the cloud. Doing so requires the following steps:
 
 - Create a ML model.
 - Make an API to make predictions
