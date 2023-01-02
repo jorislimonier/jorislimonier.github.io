@@ -1,7 +1,7 @@
 ---
 title: "Deploy ML Model"
 categories:
-  - Data-Science
+  - Data Science
   - Project
 tags:
   - Data Science
